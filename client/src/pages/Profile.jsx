@@ -25,7 +25,6 @@ export default function Profile() {
          <input
           type='password'
           placeholder='password'
-      
           id='password'
           className='border p-3 rounded-lg'
         />
